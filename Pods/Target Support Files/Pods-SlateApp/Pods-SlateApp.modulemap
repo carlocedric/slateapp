@@ -1,0 +1,6 @@
+framework module Pods_SlateApp {
+  umbrella header "Pods-SlateApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
